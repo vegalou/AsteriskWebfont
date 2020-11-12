@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Hack-Regular";
+  src: url("./Hack-Regular.eot"); /* IE9 Compat Modes */
+  src: url("./Hack-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./Hack-Regular.otf") format("opentype"), /* Open Type Font */
+    url("./Hack-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./Hack-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./Hack-Regular.woff") format("woff"), /* Modern Browsers */
+    url("./Hack-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
